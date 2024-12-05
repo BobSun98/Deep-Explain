@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="bobsun@218.88.86.182:12582 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="bobsun@110.191.167.107:12582 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bobsun/cambrige/MedMinist" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bobsun@218.88.84.232:12582 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bobsun/cambrige/MedMinist" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bobsun@218.88.86.182:12582 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bobsun/cambrige/MedMinist" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bobsun@220.166.248.109:12582 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bobsun/cambrige/MedMinist" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bobsun@220.166.249.140:12582 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bobsun/cambrige/MedMinist" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bobsun@220.166.249.140:12582 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bobsun/cambrige/MedMinist" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
