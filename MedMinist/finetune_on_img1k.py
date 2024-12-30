@@ -1,6 +1,5 @@
 import os
 import argparse
-import time
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -9,7 +8,6 @@ from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 
 import denv3
-from denv3 import DEN_V3  # 确保您已经正确导入 DEN_V3 模型
 
 # 解析命令行参数
 parser = argparse.ArgumentParser(description='PyTorch DEN_V3 Training on ImageNet1K')
@@ -32,7 +30,6 @@ if args.gpu is not None:
     torch.cuda.set_device(args.gpu)
     device = torch.device(f'cuda:{args.gpu}')
 
-from torchvision.transforms import AutoAugment, AutoAugmentPolicy
 # 数据预处理
 data_transforms = {
     "train": transforms.Compose([
